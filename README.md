@@ -13,6 +13,8 @@ Desenvolvedor de software em formação, construindo aplicações web que transf
 
 Meu foco está em unir **interface bem pensada**, **código organizado** e **dados persistentes**. Em vez de projetos apenas demonstrativos, desenvolvo experiências completas — do problema à entrega.
 
+<br clear="right" />
+
 <sub><strong>TECNOLOGIAS QUE USO</strong></sub><br>
 <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,tailwind,git&amp;theme=dark&amp;perline=6" alt="React, TypeScript, Node.js, Express, Tailwind CSS e Git" />
 
@@ -24,8 +26,6 @@ Meu foco está em unir **interface bem pensada**, **código organizado** e **dad
 <img src="https://skillicons.dev/icons?i=nextjs,postgres,docker&amp;theme=dark&amp;perline=3" alt="Next.js, PostgreSQL e Docker" />
 <img width="48" height="48" src="./assets/icon-tests.svg" alt="Testes automatizados" title="Testes automatizados" />
 <img width="48" height="48" src="./assets/icon-cloud.svg" alt="Cloud Computing" title="Cloud Computing" />
-
-<br clear="right" />
 
 ### Produtos que já têm forma
 
