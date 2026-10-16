@@ -1,0 +1,5 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cloud Computing">
+  <rect x="1" y="1" width="46" height="46" rx="12" fill="#1E1E21" stroke="#55555C"/>
+  <path d="M14 34H34A6 6 0 0 0 35 22.1A11 11 0 0 0 14 24A5 5 0 0 0 14 34Z" stroke="#FF7A1A" stroke-width="2.4" stroke-linejoin="round"/>
+  <path d="M24 25V34M20 29L24 25L28 29" stroke="#FF7A1A" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

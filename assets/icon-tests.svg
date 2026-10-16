@@ -1,0 +1,5 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Testes automatizados">
+  <rect x="1" y="1" width="46" height="46" rx="12" fill="#1E1E21" stroke="#55555C"/>
+  <path d="M17 11H31M24 11V21L33 33A3 3 0 0 1 30.5 38H17.5A3 3 0 0 1 15 33L24 21" stroke="#FF7A1A" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M18 29H30M20 33L23 35L28 30" stroke="#FF7A1A" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

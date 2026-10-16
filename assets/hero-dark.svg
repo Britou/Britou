@@ -1,19 +1,16 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
   <title id="title">Raphael Alves Brito — Desenvolvedor de software</title>
-  <desc id="description">Cabeçalho de portfólio em azul escuro com linhas de interface.</desc>
-  <rect width="1200" height="300" rx="24" fill="#0B1020"/>
-  <path d="M0 214C166 174 252 288 408 235C583 175 608 65 822 100C980 126 1056 69 1200 25V300H0V214Z" fill="#101C38"/>
-  <path d="M0 231C171 191 270 296 435 242C603 188 638 93 838 125C1005 151 1081 94 1200 53" stroke="#3667FF" stroke-width="2" opacity=".7"/>
-  <g opacity=".45" stroke="#6D8CFF">
-    <circle cx="986" cy="99" r="82"/>
-    <circle cx="986" cy="99" r="52"/>
-    <path d="M904 99H1068M986 17V181"/>
-  </g>
-  <rect x="72" y="65" width="110" height="30" rx="15" fill="#183A9E"/>
-  <text x="92" y="85" fill="#B9C9FF" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">PORTFÓLIO</text>
-  <text x="72" y="150" fill="white" font-family="Arial, sans-serif" font-size="45" font-weight="700" letter-spacing="-1.5">Raphael Alves Brito</text>
-  <text x="72" y="189" fill="#B7C4E1" font-family="Arial, sans-serif" font-size="22">Desenvolvedor de software</text>
-  <text x="72" y="230" fill="#7F96CA" font-family="Arial, sans-serif" font-size="16">Produtos digitais · Interfaces · Dados reais</text>
-  <rect x="72" y="251" width="258" height="2" fill="#3667FF"/>
-  <circle cx="350" cy="252" r="4" fill="#72E8B3"/>
+  <desc id="description">Cabeçalho animado preto, laranja e cinza.</desc>
+  <rect width="1200" height="300" rx="24" fill="#0B0B0C"/>
+  <path d="M0 224C135 188 235 270 387 241C557 208 661 106 833 132C983 155 1090 99 1200 55V300H0V224Z" fill="#1B1B1F"/>
+  <path d="M500 220C620 193 700 110 862 137C1010 161 1103 105 1280 46" stroke="#FF6A00" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="18 14"><animate attributeName="stroke-dashoffset" from="0" to="-64" dur="4s" repeatCount="indefinite"/></path>
+  <g opacity=".75" stroke="#5B5B63"><circle cx="1010" cy="104" r="80"/><circle cx="1010" cy="104" r="47"/><path d="M930 104H1090M1010 24V184"/></g>
+  <circle cx="1010" cy="104" r="6" fill="#FF6A00"><animate attributeName="r" values="5;9;5" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.4;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <rect x="72" y="62" width="124" height="32" rx="16" fill="#3A2A1D" stroke="#7D420E"/>
+  <text x="134" y="83.5" text-anchor="middle" fill="#FF9B53" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.05">PORTFÓLIO</text>
+  <text x="72" y="150" fill="#FAFAFA" font-family="Arial, sans-serif" font-size="45" font-weight="700" letter-spacing="-1.5">Raphael Alves Brito</text>
+  <text x="72" y="189" fill="#C2C2C8" font-family="Arial, sans-serif" font-size="22">Desenvolvedor de software</text>
+  <text x="72" y="230" fill="#9D9DA6" font-family="Arial, sans-serif" font-size="16">Produtos digitais · Interfaces · Dados reais</text>
+  <rect x="72" y="252" width="254" height="2" fill="#5B5B63"/>
+  <circle cx="344" cy="253" r="4" fill="#FF6A00"><animate attributeName="cx" values="344;326;344" dur="2s" repeatCount="indefinite"/></circle>
 </svg>
